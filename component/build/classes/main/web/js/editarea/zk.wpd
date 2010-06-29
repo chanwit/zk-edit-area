@@ -1,0 +1,4 @@
+<package name="editarea" language="xul/html" depends="zul">				
+	<script src="ext/edit_area/edit_area_loader.js"/>
+	<widget name="Editarea"/>	
+</package>

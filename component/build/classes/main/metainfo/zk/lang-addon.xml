@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language-addon>
+	<addon-name>editarea</addon-name>
+	<language-name>xul/html</language-name>
+
+	<version>
+		<version-class>org.zkoss.editarea.Version</version-class>
+		<version-uid>5.0.1</version-uid>
+		<zk-version>5.0.1</zk-version><!-- or later -->
+	</version>
+	
+	<component>
+		<component-name>editarea</component-name>
+		<component-class>org.zkoss.editarea.Editarea</component-class>
+		<widget-class>editarea.Editarea</widget-class>
+<!--		<mold>--> 
+<!--			<mold-name>default</mold-name>-->
+<!--			<mold-uri>mold/editArea.js</mold-uri>-->
+<!--		</mold>-->
+	</component>
+</language-addon>
